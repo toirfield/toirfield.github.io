@@ -1,0 +1,33 @@
+img {
+	display: block;
+	height: 100px;
+	width: 300px;
+	margin: auto;
+}
+
+p {
+	text-align: center;
+	font-family: Garamond, serif;
+	font-size: 18px;
+}
+
+div {
+    height: 50px;
+    width: 120px;
+    background-color:#BCD2EE;
+    border:2px solid #6495ed;
+    border-radius: 5px;
+    margin: auto;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+    font-family: Impact; sans-serif;
+    font-size: 21px;
+}
+
+span {
+    color: #000099;
+}
